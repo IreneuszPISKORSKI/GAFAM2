@@ -1,0 +1,35 @@
+Résultats financiers de Microsoft www.blogdumoderateur.com
+
+Microsoft a publié ses résultats financiers pour le compte de son 4e trimestre 2021 (clos le 30 juin 2021). Voici les principaux chiffres à retenir :
+
+Chiffre d’affaires : 46,2 milliards de dollars, en hausse de 21 % sur 12 mois,
+Chiffre d’affaires de l’activité Productivity and Business Processes : 14,7 milliards de dollars (+25 %),
+Chiffre d’affaires de l’activité Intelligent Cloud : 17,4 milliards (+30 %),
+Chiffre d’affaires de l’activité More Personal Computing : 14,1 milliards de dollars (+9 %).
+Bénéfice net : 16,5 milliards de dollars entre avril et juin 2021 (+47 %).
+
+Les autres chiffres d’utilisation des logiciels et produits de Microsoft
+Parmi les autres chiffres communiqués par la firme américaine, on peut noter :
+
+Office 365 : près de 300 millions de licences, plus de 50 millions d’abonnés à Microsoft 365,
+Microsoft 365 Defender : 30 milliards de menaces bloquées sur les e-mails et près de 7 milliards sur les terminaux au cours des 12 derniers mois,
+GitHub : 65 millions de développeurs inscrits, et une hausse de 70 % du nombre d’entreprises actives par mois en un an,
+Visual Studio : 25 millions d’utilisateurs actifs par mois,
+Power Platform : 16 millions d’utilisateurs actifs par mois (+97 % sur un an),
+Azure Active Directory : plus de 300 000 clients de la solution,
+GPT-3 : 4,5 milliards de mots générés par jour,
+LinkedIn : 756 millions de membres.
+
+Fait du tort a qui 
+
+point d'énervement :www.cio-online.com
+
+la mauvaise qualité initiale des produits entraînant des mises à 
+jour obligatoires par voie de patchs réguliers. Or l'application de ces patchs constitue une 
+charge de travail importante pour les entreprises, donc un coût. En pointe sur le sujet, 
+l'association allemande Voice a appelé « à une plus grande responsabilité de la part des 
+fournisseurs de logiciels et des fournisseurs de cloud ». Le Cigref a calculé qu'un grand 
+compte de 150 000 salariés devait mobiliser quinze équivalents-temps-plein sur la seule 
+gestion des patchs. Pour la France plus spécifiquement, « le Cigref soutient par ailleurs la 
+proposition de loi Chaize, en cours de relecture par le Sénat et l'Assemblée nationale, de 
+dissocier les mises à jour de sécurité des mises à jour fonctionnelles. »

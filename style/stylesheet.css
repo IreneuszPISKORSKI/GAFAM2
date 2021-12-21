@@ -1,0 +1,80 @@
+html {
+    font-size: 30px;
+    background-color: #f0f2f5;
+
+}
+body {
+    
+
+}
+
+
+.facebook {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    color: #1877f2;
+    padding: 100px 100px 100px 100px;
+    border: 10px solid #1877f2;
+}
+
+.google {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    color: #4285f4;
+    padding: 100px 100px 100px 100px;
+    border: 10px solid #fbbc05;
+}
+
+.apple {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+
+    padding: 100px 100px 100px 100px;
+    border: 10px solid #A2AAAD;
+}
+
+.amazon {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    padding: 100px 100px 100px 100px;
+    border: 10px solid #e47911;
+}
+
+.microsoft {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    color:black
+    padding: 100px 100px 100px 100px;
+    border: 10px solid #950c17;
+}
+
+.presentation {
+    width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+    color:black
+    padding: 100px 100px 100px 100px;
+    border: 10px solid #950c17;
+}
+
+
+
+.icon {
+    margin-left: 70px;
+    height: 90%;
+    padding: 100px 0px 100px 0px;
+    
+}
+
+.iconborder {
+    
+    padding: 20px 0px 20px 0px;
+   
+}
+
